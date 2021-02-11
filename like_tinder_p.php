@@ -48,16 +48,16 @@
   <!-- Swiper -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder1.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder2.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder3.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder4.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder5.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder6.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder7.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder8.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder9.jpg)"></div>
-      <div class="swiper-slide" style="background-image:url(./imgs/tinder1.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder1.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder2.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder3.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder4.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder5.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder6.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder7.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder8.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder9.jpg)"></div>
+      <div class="swiper-slide" style="background-image:url(./tinder1.jpg)"></div>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
